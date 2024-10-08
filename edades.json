@@ -1,0 +1,559 @@
+[
+  {
+    "address": "individuo 1",
+    "age": 67,
+    "careers": [
+      "MECATRONICA",
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 2",
+    "age": 53,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 3",
+    "age": 40,
+    "careers": [
+      "MECATRONICA",
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 4",
+    "age": 46,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 5",
+    "age": 46,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 6",
+    "age": 29,
+    "careers": [
+      "MECATRONICA",
+      "SOFTWARE",
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 7",
+    "age": 46,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 8",
+    "age": 43,
+    "careers": [
+      "MECATRONICA",
+      "QUIMICA",
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 9",
+    "age": 44,
+    "careers": [
+      "MECATRONICA",
+      "ADMINISTRATIVOS",
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 10",
+    "age": 41,
+    "careers": [
+      "MECATRONICA",
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 11",
+    "age": 47,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 12",
+    "age": 42,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 13",
+    "age": 48,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 14",
+    "age": 33,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 15",
+    "age": 43,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 16",
+    "age": 59,
+    "careers": [
+      "MECATRONICA",
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 17",
+    "age": 42,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 18",
+    "age": 50,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 19",
+    "age": 41,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 20",
+    "age": 41,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 21",
+    "age": 41,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 22",
+    "age": 29,
+    "careers": [
+      "MECATRONICA"
+    ]
+  },
+  {
+    "address": "individuo 23",
+    "age": 73,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 24",
+    "age": 58,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 25",
+    "age": 56,
+    "careers": [
+      "ADMINISTRATIVOS",
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 26",
+    "age": 42,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 27",
+    "age": 41,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 28",
+    "age": 46,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 29",
+    "age": 30,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 30",
+    "age": 57,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 31",
+    "age": 35,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 32",
+    "age": 46,
+    "careers": [
+      "ADMINISTRATIVOS"
+    ]
+  },
+  {
+    "address": "individuo 33",
+    "age": 42,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 34",
+    "age": 29,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 35",
+    "age": 29,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 36",
+    "age": 26,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 37",
+    "age": 45,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 38",
+    "age": 32,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 39",
+    "age": 37,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 40",
+    "age": 40,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 41",
+    "age": 32,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 42",
+    "age": 29,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 43",
+    "age": 39,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 44",
+    "age": 32,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 45",
+    "age": 49,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 46",
+    "age": 33,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 47",
+    "age": 45,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 48",
+    "age": 27,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 49",
+    "age": 26,
+    "careers": [
+      "QUIMICA"
+    ]
+  },
+  {
+    "address": "individuo 50",
+    "age": 35,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 51",
+    "age": 46,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 52",
+    "age": 50,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 53",
+    "age": 22,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 54",
+    "age": 55,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 55",
+    "age": 41,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 56",
+    "age": 41,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 57",
+    "age": 25,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 58",
+    "age": 48,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 59",
+    "age": 44,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 60",
+    "age": 46,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 61",
+    "age": 46,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 62",
+    "age": 20,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 63",
+    "age": 21,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 64",
+    "age": 39,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 65",
+    "age": 54,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 66",
+    "age": 31,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 67",
+    "age": 24,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 68",
+    "age": 61,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 69",
+    "age": 29,
+    "careers": [
+      "SOFTWARE"
+    ]
+  },
+  {
+    "address": "individuo 70",
+    "age": 41,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 71",
+    "age": 41,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 72",
+    "age": 41,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 73",
+    "age": 27,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 74",
+    "age": 66,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 75",
+    "age": 39,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 76",
+    "age": 31,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 77",
+    "age": 30,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  },
+  {
+    "address": "individuo 78",
+    "age": 34,
+    "careers": [
+      "TELECOMUNICACIONES"
+    ]
+  }
+]
